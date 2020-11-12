@@ -1,5 +1,5 @@
 {
-    "name": "daniel/test",
+    "name": "daniellzl/test",
     "description": "This is Daniel Test",
     "require": {
         "phpunit/phpunit": "^9.4"
