@@ -7,6 +7,6 @@ namespace Acme;
 class Test
 {
     public function test() {
-        echo  "Form Test -> test";
+        echo  "Form Test -> test  asd asd ";
     }
 }
